@@ -1,15 +1,15 @@
 {
    "description": {
-      "message": "Контролируйте громкость звука в браузере. Установите индивидуальный уровень громкости для вкладок со звуком. Есть функция увеличения громкости."
+      "message": "Control audio volume in your browser. Set individual volume level for tabs with audio. Get your audio rocking by our volume booster."
    },
    "name": {
       "message": "Lobanoff HTML Volume"
    },
    "popup_list_tabs": {
-      "message": "Активные вкладки с активным аудио:"
+      "message": "Active tabs playing audio:"
    },
    "popup_list_tabs_no_play": {
-      "message": "Сейчас нет активных вкладок с аудио"
+      "message": "There are no tabs with audio right now"
    },
    "popup_volume": {
       "message": "Volume:"
@@ -18,6 +18,6 @@
       "message": "Lobanoff HTML Volume"
    },
    "title": {
-      "message": "Lobanoff HTML Volume - Регулятор громкости"
+      "message": "Lobanoff HTML Volume"
    }
 }
